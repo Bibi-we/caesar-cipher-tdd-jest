@@ -1,0 +1,23 @@
+{
+  "name": "caesar-cipher-tdd-jest",
+  "version": "1.0.0",
+  "description": "creating a caesar cipher using jest and test driven development method to practice improving code efficiency, reliability and robustness .",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bibi-we/caesar-cipher-tdd-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bibi-we/caesar-cipher-tdd-jest/issues"
+  },
+  "homepage": "https://github.com/Bibi-we/caesar-cipher-tdd-jest#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
